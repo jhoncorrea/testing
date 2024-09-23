@@ -1,2 +1,2 @@
 print("arhivo login")
-print("segundo texto desde PC")
+print("segundo texto desde mi PC")
